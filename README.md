@@ -4,7 +4,7 @@ David's schedule
 ## Wednesday
  - Rediscovering Active Record
  - Multi-table full-text-search with Postgres
- - Foreign API Simulation with Sinatra
+ - Foreign API Simulation with Sinatra _[no notes]_
  - 3x Rails: Tuning the Framework Internals
  - Zen and the Art of the Controller
  - Facepalm to Foolproof: Avoiding Common Production Pitfalls
