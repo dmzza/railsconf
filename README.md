@@ -8,6 +8,7 @@ David's schedule
  - 3x Rails: Tuning the Framework Internals
  - Zen and the Art of the Controller
  - Facepalm to Foolproof: Avoiding Common Production Pitfalls
+  - [Slide deck](https://speakerdeck.com/jmccartie/facepalm-to-foolproof-railsconf-2016)
 
 
  ## Thursday
